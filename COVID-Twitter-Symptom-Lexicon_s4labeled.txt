@@ -1,0 +1,114 @@
+Pyrexia	C0015967	fever
+Headache	C0018681	headache
+chest pain	C0008031	odd feelings in my chest
+Body ache & Pain	C0741585	body ache
+Cough	C0010200	cough
+Chest tightness	C0235710	a little chest tightness
+Fatigue	C0015672	being tired
+Dyspnea	C0013404	a little shortness of breath
+Oropharyngeal pain	C2363731	mild sore throat
+Sneezing	C0037383	mild sneezing
+Nausea	C0027497	super nauseous with stomach issues
+Chest pain	C0008031	stabbing in my lung
+Chest tightness	C0235710	tightness in my lung
+Fatigue	C0015672	very tired
+Loss of appetite	C0232462	could hardly eat
+Chest pain	C0008031	some lung pain
+Diarrhea/GI issues	C0011991	gi symptoms
+Oropharyngeal pain	C2363731	sore throat
+Fatigue	C0015672	severe fatigue
+Dyspnea	C0013404	shortness of breath
+Palpitations	C0030252	slowly increasing average resting heart rate
+Visual impairment	C3665347	blurred vision
+Body ache & Pain	C0741585	neck pain
+Pyrexia	C0015967	fever reached 100.4
+Anosmia	C0003126	lost sense
+Ageusia	C2364111	lost taste
+Palpitations	C0030252	mild heart palpitations
+Dyspnea	C0013404	slightly worse short of breath
+Chest pain	C0008031	chest feels burning pain
+Chest tightness	C0235710	chest feels pressure
+Cough	C0010200	very little cough
+Cough	C0010200	a little phlegm
+Pyrexia	C0015967	fever from 99.5 to 100
+Chest tightness	C0235710	chest feels tighter
+Pyrexia	C0015967	low-grade fever
+Headache	C0018681	headaches
+Chest pain	C0008031	chest pain
+Insomnia/sleep disturbance	C0917801	have not been sleeping well
+Other	C0000000	pulse ox continues to be about 98%
+Cough	C0010200	extremely deep cough
+Dyspnea	C0013404	lungs feel real weakened
+Other	C0000000	bloating
+Loss of appetite	C0232462	loss of appetite
+Migraine	C0149931	migraine
+Chills	C0085593	chills
+Diarrhea/GI issues	C0011991	diarrhea
+Other	C0000000	sob
+Migraine	C0149931	a few more episodes of migraines
+Oropharyngeal pain	C2363731	got a tickle in my throat
+Nausea	C0027497	nausea
+Insomnia/sleep disturbance	C0917801	hardly slept
+Anxiety, stress & general mental health symptoms	C1832070	a little depressed
+Anxiety, stress & general mental health symptoms	C1832070	panic attacks
+Anxiety, stress & general mental health symptoms	C1832070	anxiety
+Oropharyngeal pain	C2363731	itchy throat
+Headache	C0018681	headaches occasionally
+Dizziness/disorientation/confusion	C0012833	dizzy
+Fatigue	C0015672	fatigue
+Pyrexia	C0015967	fever 39/105
+Palpitations	C0030252	heartbeat 130
+Fatigue	C0015672	exhaustion
+Pyrexia	C0015967	low consistent fever
+Myalgia	C0231528	horrible muscle pain
+Cough	C0010200	horrible cough
+Cough	C0010200	residual cough
+Fatigue	C0015672	exhausted
+Diarrhea/GI issues	C0011991	gastro problems
+Abdominal pain	C0000737	hurts to touch different areas of belly
+Dyspnea	C0013404	shitty breathing
+Hypertension	C0020538	hypertension
+Hypertension	C0020538	high blood pressure
+Palpitations	C0030252	fast heart rate
+Anxiety, stress & general mental health symptoms	C1832070	can't handle stress
+Anosmia	C0003126	lost my sense of smell completely
+Ageusia	C2364111	lost my sense of taste completely
+Rhinorrhea	C1260880	nasal congestion
+Body ache & Pain	C0741585	back pain
+Myalgia	C0231528	muscle strain
+Headache	C0018681	bad headache
+Chest pain	C0008031	congestion
+Other	C0000000	took aleve
+Dizziness/disorientation/confusion	C0012833	foggy head
+Body ache & Pain	C0741585	mid back pains
+Rhinorrhea	C1260880	slight nasal congestion
+Other	C0000000	pulse goes to around 110
+Other	C0000000	gone as high as 140
+Anosmia	C0003126	smell are still not functioning normally
+Ageusia	C2364111	taste are still not functioning normally
+Anosmia	C0003126	the loss of my smell have still not come back
+Ageusia	C2364111	the loss of my taste have still not come back
+Diarrhea/GI issues	C0011991	gi issues
+Body ache & Pain	C0741585	occasional body ache
+Other	C0000000	phantosmia
+Ageusia	C2364111	cannot taste properly
+Anosmia	C0003126	cannot smell properly
+Chest tightness	C0235710	chest tightness
+Body ache & Pain	C0741585	body aches
+Anosmia	C0003126	no smell
+Ageusia	C2364111	no taste
+Anosmia	C0003126	limited smell
+Ageusia	C2364111	limited taste
+dyspnea	C0013404	difficulty breathing
+Oropharyngeal pain	C2363731	no sore throat
+Dyspnea	C0013404	haven't had any shortness of breath
+Ageusia	C2364111	loss of taste
+Anosmia	C0003126	loss of smell
+Other	C0000000	pulse ox is always 110
+Other	C0000000	pulse ox is 100
+Other	C0000000	pulse ox
+Other	C0000000	oxygen levels around 96
+Other	C0000000	oxygen levels
+Dyspnea	C0013404	shortness of breath
+Oropharyngeal pain	C2363731	sore throat
+dyspnea	C0013404	difficulty breathing

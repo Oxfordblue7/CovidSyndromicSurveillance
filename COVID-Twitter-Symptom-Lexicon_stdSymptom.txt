@@ -1,0 +1,53 @@
+Abdominal pain	C0000737    Abdominal pain
+Ageusia	C2364111    Ageusia
+Anosmia	C0003126    Anosmia
+Anxiety, stress & general mental health symptoms	C1832070    Anxiety
+Anxiety, stress & general mental health symptoms	C1832070    stress
+Anxiety, stress & general mental health symptoms	C1832070    general mental health symptoms
+Arthralgia	C0003862    Arthralgia
+Body ache & Pain	C0741585    Body ache
+Body ache & Pain	C0741585    Pain
+Bronchitis	C0006277    Bronchitis
+Chest pain	C0008031    Chest pain
+Chest tightness	C0235710    Chest tightness
+Chills	C0085593    Chills
+Cough	C0010200    Cough
+Dehydration	C0011175    Dehydration
+Diarrhea/GI issues	C0011991    Diarrhea
+Diarrhea/GI issues	C0011991    GI issues
+Dizziness/disorientation/confusion	C0012833    Dizziness
+Dizziness/disorientation/confusion	C0012833    disorientation
+Dizziness/disorientation/confusion	C0012833    confusion
+Dyspnea	C0013404    Dyspnea
+Ear infection/pain	C0013456    Ear infection
+Ear infection/pain	C0013456    Ear pain
+Eye pain	C0151827    Eye pain
+Fatigue	C0015672    Fatigue
+Headache	C0018681    Headache
+Hemoptysis	C0019079    Hemoptysis
+Hot Flush	C0600142    Hot Flush
+Hyperhidrosis	C0020458    Hyperhidrosis
+Hypertension	C0020538    Hypertension
+Insomnia/sleep disturbance	C0917801    Insomnia
+Insomnia/sleep disturbance	C0917801    sleep disturbance
+Irritability	C0022107    Irritability
+Lethargic	C0023380    Lethargic
+Loss of appetite	C0232462    Loss of appetite
+Lymphadenopathy	C0497156    Lymphadenopathy
+Migraine	C0149931    Migraine
+Myalgia	C0231528    Myalgia
+Nasal dryness	C0231919    Nasal dryness
+Nausea	C0027497    Nausea
+Oropharyngeal pain	C2363731    Oropharyngeal pain
+Palpitations	C0030252    Palpitations
+Paranasal sinus discomfort	C0948596    Paranasal sinus discomfort
+Pruritus	C0033774    Pruritus
+Pyrexia	C0015967    Pyrexia
+Rash	C0015230    Rash
+Rhinorrhea	C1260880    Rhinorrhea
+Sneezing	C0037383    Sneezing
+Sputum increased	C0235567    Sputum increased
+Upper respiratory tract infection	C0041912    Upper respiratory tract infection
+Visual impairment	C3665347    Visual impairment
+Vomiting	C0042963    Vomiting
+Wheezing	C0043144    Wheezing
